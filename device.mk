@@ -188,6 +188,7 @@ PRODUCT_PACKAGES += \
 
 # Display interfaces
 PRODUCT_PACKAGES += \
+    vendor.display.config@2.0 \
     vendor.qti.hardware.display.composer@1.0.vendor \
     vendor.qti.hardware.display.composer@2.0.vendor \
     vendor.qti.hardware.display.mapper@2.0.vendor \
@@ -432,6 +433,7 @@ PRODUCT_PACKAGES += \
     libdisplayconfig.qti \
     vendor.display.config@2.0 \
     libdisplayconfig.vendor \
+    libdisplayconfig.qti \
     libnl \
     libqdMetaData \
     libqdMetaData.system \
