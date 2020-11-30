@@ -179,8 +179,8 @@ PRODUCT_PACKAGES += \
     libsfplugin_ccodec
 
 # Device-specific settings
-PRODUCT_PACKAGES += \
-    XiaomiParts
+#PRODUCT_PACKAGES += \
+#    XiaomiParts
 
 # Display/Graphics
 PRODUCT_PACKAGES += \
