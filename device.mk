@@ -364,8 +364,7 @@ PRODUCT_PACKAGES += \
 
 # Recovery
 PRODUCT_PACKAGES += \
-    librecovery_updater_xiaomi \
-    init.safailnet.rc
+    librecovery_updater_xiaomi
 
 # RCS
 PRODUCT_PACKAGES += \
