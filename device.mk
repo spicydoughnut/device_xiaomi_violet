@@ -455,5 +455,3 @@ PRODUCT_PACKAGES += \
 PRODUCT_BOOT_JARS += \
     WfdCommon
 
-# Wallpapers
-TARGET_INCLUDE_LIVE_WALLPAPERS := false
