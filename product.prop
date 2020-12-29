@@ -2,6 +2,10 @@
 persist.bluetooth.bqr.event_mask=14
 persist.bluetooth.bqr.min_interval_ms=500
 
+# Blur
+ro.sf.blurs_are_expensive=1 \
+ro.surface_flinger.supports_background_blur=1
+
 # Charger
 ro.charger.enable_suspend=true
 
