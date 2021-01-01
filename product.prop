@@ -6,6 +6,9 @@ persist.bluetooth.bqr.min_interval_ms=500
 ro.sf.blurs_are_expensive=1 \
 ro.surface_flinger.supports_background_blur=1
 
+# Boot
+sys.vendor.shutdown.waittime=500
+
 # Charger
 ro.charger.enable_suspend=true
 
